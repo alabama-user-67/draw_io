@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T09:38:08.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7fSKDujhWvFqxIkpIP5Q" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-22T10:46:38.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WAfJW4KXUK6TMJvoG0tL" version="24.4.4" type="github" pages="2">
   <diagram name="Ядро" id="HoIlFFRIu7eG3agP94VW">
     <mxGraphModel dx="1674" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="data_from_staging.certificate" tags="t1" id="AoSnnpFC8x0MnnbfTpmn-178">
+        <UserObject label="data_from_staging.certificate" tags="" id="AoSnnpFC8x0MnnbfTpmn-178">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="20" y="-1150" width="190" height="30" as="geometry">
               <mxRectangle x="20" y="-1150" width="310" height="2220" as="alternateBounds" />
@@ -27,7 +27,7 @@
         <mxCell id="AoSnnpFC8x0MnnbfTpmn-182" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=0;" parent="AoSnnpFC8x0MnnbfTpmn-178" vertex="1">
           <mxGeometry y="60" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AoSnnpFC8x0MnnbfTpmn-183" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;strokeColor=inherit;top=0;left=0;bottom=0;right=0;" parent="AoSnnpFC8x0MnnbfTpmn-182" vertex="1">
+        <mxCell id="AoSnnpFC8x0MnnbfTpmn-183" value="1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;strokeColor=inherit;top=0;left=0;bottom=0;right=0;" parent="AoSnnpFC8x0MnnbfTpmn-182" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -961,12 +961,12 @@
           </mxGeometry>
         </mxCell>
         <object label="" tags="t1" id="itVgh0yGrNzop2efYcsV-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="150" y="-940" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="" tags="t1" id="itVgh0yGrNzop2efYcsV-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="350" y="-940" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
