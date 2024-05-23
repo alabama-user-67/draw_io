@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T10:35:00.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="a272fqGiYuM_50gqf3bG" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-23T10:37:55.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TfRlDPVkF4s5y9-lRGoe" version="24.4.4" type="github" pages="4">
   <diagram id="PLj10XZm50xevkK5dDC4" name="Схема общих зависимостей аналитических блоков">
     <mxGraphModel dx="2473" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -749,6 +749,9 @@
         </mxCell>
         <mxCell id="eS4dShGHWixi8SMgv67B-21" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Arial, Verdana, &amp;quot;Helvetica CY&amp;quot;, &amp;quot;Geneva CY&amp;quot;, sans-serif; font-size: 12.6px; text-align: left;&quot;&gt;k0809lite_new&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JQHpWjY89Pe-y4Qi9-8J-70">
           <mxGeometry x="1071" y="66" width="138" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="eS4dShGHWixi8SMgv67B-24" value="data_updates" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="JQHpWjY89Pe-y4Qi9-8J-70">
+          <mxGeometry x="1075" y="110" width="130" height="28" as="geometry" />
         </mxCell>
         <mxCell id="hg912FfM6FEqGGIqlRZi-1" value="Таблица ядра" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-498" y="-181" width="130" height="28" as="geometry" />
