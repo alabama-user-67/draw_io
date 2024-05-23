@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T10:48:52.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3AyLzJDQr7mEN8iDsjpU" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-23T14:01:37.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9gvm0TdRLiSrzXGo6v8L" version="24.4.4" type="github" pages="4">
   <diagram id="PLj10XZm50xevkK5dDC4" name="Схема общих зависимостей аналитических блоков">
     <mxGraphModel dx="2473" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -631,7 +631,7 @@
         <mxCell id="JQHpWjY89Pe-y4Qi9-8J-54" value="Компоненты" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="JQHpWjY89Pe-y4Qi9-8J-53">
           <mxGeometry y="20" width="1244" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="JQHpWjY89Pe-y4Qi9-8J-84" value="К 8 lite" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="JQHpWjY89Pe-y4Qi9-8J-54">
+        <mxCell id="JQHpWjY89Pe-y4Qi9-8J-84" value="К 8 lite" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="JQHpWjY89Pe-y4Qi9-8J-54">
           <mxGeometry x="46" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQHpWjY89Pe-y4Qi9-8J-85" value="К 9 lite" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="JQHpWjY89Pe-y4Qi9-8J-54">
