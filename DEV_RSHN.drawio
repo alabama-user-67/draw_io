@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T08:07:54.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_hieneveM6txMgm0ThNl" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-23T08:23:26.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9VQKpFtkqMgOZIXjrZKo" version="24.4.4" type="github" pages="4">
   <diagram id="PLj10XZm50xevkK5dDC4" name="Схема общих зависимостей аналитических блоков">
     <mxGraphModel dx="2473" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -542,6 +542,49 @@
         <mxCell id="-ttaNwEr5wL1qXrof5S8-248" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;STAGING&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="-1210" width="120" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q8BE1aW65V3LsU3hSjd4" name="Алгоритм описания блоков">
+    <mxGraphModel dx="1554" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ObZ3WurN0Z1yXaBjCuNW-16" value="Аналитический блок" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-218" y="-192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObZ3WurN0Z1yXaBjCuNW-18" value="Компонент" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="-192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObZ3WurN0Z1yXaBjCuNW-19" value="ФВД" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="-282" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObZ3WurN0Z1yXaBjCuNW-20" value="Наборы данных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="-192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObZ3WurN0Z1yXaBjCuNW-21" value="Используемые таблицы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="-192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObZ3WurN0Z1yXaBjCuNW-22" value="Пакет" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="-192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObZ3WurN0Z1yXaBjCuNW-23" value="Сценаирий" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="-192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObZ3WurN0Z1yXaBjCuNW-24" value="Шаги сценария" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="611" y="-189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObZ3WurN0Z1yXaBjCuNW-25" value="Используемые таблицы в сценарии" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="-189" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5Lj_t2Xv9XnUMsl7b_Oe" name="Алгоритм описания ФВД">
+    <mxGraphModel dx="1673" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
